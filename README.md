@@ -1,5 +1,5 @@
 # COVID19-Processed-Timeseries-Data
-* When using COVID-19 data and SARS data for time series and map visualization, data preprocessing took us a long time
+* When using <b>COVID-19 data and SARS data</b> for time series and map visualization, data preprocessing took us a long time
 * Those processed files can be directly used for visualization, e.g upload to Flourish or display on Mapbox directly
 
 ## Purpose
