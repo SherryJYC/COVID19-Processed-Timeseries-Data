@@ -4,7 +4,7 @@
 
 ## Purpose
 * Provide processed COVID-19 data (China) and SARS data (China) with geo-information
-* Make processed data more suitable for visualizations like time series chart or map with timeline
+* Help produce a quick and rough visualiaztion, like time series chart or map with timeline
 * Help comparision between COVID-19 and SARS
 
 ## Data Sources
