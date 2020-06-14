@@ -12,7 +12,7 @@
 ## Data Sources
 * COVID-19 data: [DXYArea.csv](https://github.com/BlankerL/DXY-COVID-19-Data/blob/master/csv/DXYArea.csv) from [COVID-19/2019-nCoV Infection Time Series Data Warehouse](https://github.com/BlankerL/DXY-COVID-19-Data)
 > This data warehouse is based on [DXY](https://ncov.dxy.cn/ncovh5/view/pneumonia)
-* SARS data: 
+* SARS data: [SARS Daily Report by NHC, China](http://www.nhc.gov.cn/wjw/zcjd/201304/a0d4975881e44d389195779773afaabc.shtml)
 
 ## Description of Data
 ### COVID-19 data
@@ -32,6 +32,7 @@
 [COVID-19/2019-nCoV Infection Time Series Data Warehouse](https://github.com/BlankerL/DXY-COVID-19-Data) <br/>
 
 * Global <br/>
+[COVID-19 (coronavirus) by Our World in Data](https://github.com/owid/covid-19-data/tree/master/public/data)
 [Open COVID-19 Dataset](https://github.com/open-covid-19/data) <br/>
 [GIS for worldwide situation provide by JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
