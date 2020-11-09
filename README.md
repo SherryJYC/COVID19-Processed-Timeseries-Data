@@ -36,7 +36,4 @@
 [Open COVID-19 Dataset](https://github.com/open-covid-19/data) <br/>
 [GIS for worldwide situation provide by JHU](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html#/bda7594740fd40299423467b48e9ecf6)
 
-## Authors
-Yuchang Jiang, Tianyu Wu 
-
 ## BEST WISHES
